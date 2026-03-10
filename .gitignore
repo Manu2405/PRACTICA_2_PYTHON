@@ -116,8 +116,8 @@ docker-compose.override.yml
 !docker-compose*.yml
 
 # Logs
-logs/
-!.log
+logs/*
+!logs/auditoria.log
 
 # Local settings and secrets
 .env.local
