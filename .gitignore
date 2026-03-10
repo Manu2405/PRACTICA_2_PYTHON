@@ -112,12 +112,12 @@ Desktop.ini
 
 # Docker
 docker-compose.override.yml
-**/Dockerfile*
+!Dockerfile*
 !docker-compose*.yml
 
 # Logs
 logs/
-*.log
+!.log
 
 # Local settings and secrets
 .env.local

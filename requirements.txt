@@ -1,1 +1,27 @@
-fastapi\nuvicorn[standard]\npsycopg2-binary\npymongo\nrequests\npycryptodome\npytest\n
+# Web Framework
+fastapi~=0.115.0
+uvicorn~=0.30.0
+
+# Cliente HTTP para comunicación entre microservicios
+httpx~=0.28.0
+
+# Criptografía (Algoritmos modernos: AES, DES, 3DES, ChaCha20, RSA, ECC, etc.)
+pycryptodome~=3.20.0
+
+# Base de Datos Relacional (PostgreSQL) - Opciones
+asyncpg~=0.30.0       # Recomendado para ASFI (asíncrono)
+psycopg2-binary~=2.9.0 # Alternativa síncrona
+
+# Base de Datos No Relacional (MongoDB) - Opciones
+pymongo~=4.10.0       # Controlador estándar
+motor~=3.6.0          # Controlador asíncrono (si prefieres)
+
+# Utilidades
+pydantic~=2.0.0
+python-dotenv~=1.0.0
+pytz~=2024.0
+
+# Testing (descomenta si vas a usarlos)
+# pytest~=8.0.0
+# pytest-asyncio~=0.25.0
+# pytest-httpx~=0.35.0
