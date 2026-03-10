@@ -1,0 +1,1 @@
+version: '3.8'\nservices:\n  bcb-simulator:\n    image: alpine\n    command: echo 'placeholder'\n
