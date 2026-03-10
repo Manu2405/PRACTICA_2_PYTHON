@@ -1,0 +1,1 @@
+# Lógica auditoría\n

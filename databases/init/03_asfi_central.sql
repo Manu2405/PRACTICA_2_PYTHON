@@ -1,0 +1,1 @@
+-- Esquema ASFI central\n

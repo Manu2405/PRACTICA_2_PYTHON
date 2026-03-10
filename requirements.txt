@@ -1,0 +1,1 @@
+fastapi\nuvicorn[standard]\npsycopg2-binary\npymongo\nrequests\npycryptodome\npytest\n
