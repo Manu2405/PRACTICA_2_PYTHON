@@ -1,6 +1,6 @@
 # Web Framework
-fastapi~=0.115.0
-uvicorn~=0.30.0
+fastapi==0.103.2
+uvicorn==0.23.2
 
 # Cliente HTTP para comunicación entre microservicios
 httpx~=0.28.0
@@ -12,12 +12,8 @@ pycryptodome~=3.20.0
 asyncpg~=0.30.0
 psycopg2-binary  # Sin versión fija para evitar problemas de compilación en Windows
 
-# Base de Datos No Relacional (MongoDB)
-pymongo~=4.10.0
-motor~=3.6.0
-
 # Utilidades
-pydantic~=2.0.0
+pydantic<2.0.0
 python-dotenv~=1.0.0
 pytz~=2024.0
 
