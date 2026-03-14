@@ -1,0 +1,15 @@
+#instalacion de la libreria' pip install pycryptodome '
+
+#como proceder a usar 
+
+# ejemplo de uso
+
+from core.security.algorithms import caesar, aes
+
+# Uso simple de uso:
+texto_cifrado_1 = caesar.encrypt("Hola Mundo", shift=5)
+texto_cifrado_2 = aes.encrypt("Saldo: 1000")
+
+print(texto_cifrado_1)
+print(texto_cifrado_2)
+#
