@@ -1,1 +1,0 @@
-# generación código verificación\n

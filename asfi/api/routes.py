@@ -1,1 +1,0 @@
-# Endpoints ASFI\n

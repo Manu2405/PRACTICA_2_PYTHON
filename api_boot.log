@@ -1,0 +1,100 @@
+nohup: ignoring input
+INFO:     Started server process [195627]
+INFO:     Started server process [195639]
+INFO:     Waiting for application startup.
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Application startup complete.
+ERROR:    [Errno 98] error while attempting to bind on address ('127.0.0.1', 8893): address already in use
+INFO:     Waiting for application shutdown.
+ERROR:    [Errno 98] error while attempting to bind on address ('127.0.0.1', 8881): address already in use
+INFO:     Application shutdown complete.
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Started server process [195631]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+ERROR:    [Errno 98] error while attempting to bind on address ('127.0.0.1', 8885): address already in use
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Started server process [195635]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+ERROR:    [Errno 98] error while attempting to bind on address ('127.0.0.1', 8889): address already in use
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Started server process [195638]
+INFO:     Waiting for application startup.
+INFO:     Started server process [195628]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Application startup complete.
+ERROR:    [Errno 98] error while attempting to bind on address ('127.0.0.1', 8892): address already in use
+INFO:     Waiting for application shutdown.
+ERROR:    [Errno 98] error while attempting to bind on address ('127.0.0.1', 8882): address already in use
+INFO:     Application shutdown complete.
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Started server process [195637]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+ERROR:    [Errno 98] error while attempting to bind on address ('127.0.0.1', 8891): address already in use
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Started server process [195634]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+ERROR:    [Errno 98] error while attempting to bind on address ('127.0.0.1', 8888): address already in use
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Started server process [195632]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+ERROR:    [Errno 98] error while attempting to bind on address ('127.0.0.1', 8886): address already in use
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Started server process [195629]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+ERROR:    [Errno 98] error while attempting to bind on address ('127.0.0.1', 8883): address already in use
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Started server process [195630]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+ERROR:    [Errno 98] error while attempting to bind on address ('127.0.0.1', 8884): address already in use
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Started server process [195640]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+ERROR:    [Errno 98] error while attempting to bind on address ('127.0.0.1', 8894): address already in use
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Started server process [195633]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+ERROR:    [Errno 98] error while attempting to bind on address ('127.0.0.1', 8887): address already in use
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Started server process [195636]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+ERROR:    [Errno 98] error while attempting to bind on address ('127.0.0.1', 8890): address already in use
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+Starting banco_union on http://127.0.0.1:8881 ...
+Starting bcp on http://127.0.0.1:8882 ...
+Starting fortaleza on http://127.0.0.1:8883 ...
+Starting mercantil on http://127.0.0.1:8884 ...
+Starting bisa on http://127.0.0.1:8885 ...
+Starting solidario on http://127.0.0.1:8886 ...
+Starting desarrollo_productivo on http://127.0.0.1:8887 ...
+Starting bnb on http://127.0.0.1:8888 ...
+Starting economico on http://127.0.0.1:8889 ...
+Starting fie on http://127.0.0.1:8890 ...
+Starting ganadero on http://127.0.0.1:8891 ...
+Starting prodem on http://127.0.0.1:8892 ...
+Starting pyme_comunidad on http://127.0.0.1:8893 ...
+Starting argentina on http://127.0.0.1:8894 ...
+All bank APIs started. Press Ctrl+C to stop.

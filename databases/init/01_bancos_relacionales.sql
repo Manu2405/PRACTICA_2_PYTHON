@@ -1,1 +1,0 @@
--- Esquema bancos relacionales\n

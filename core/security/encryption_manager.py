@@ -1,1 +1,0 @@
-# Fábrica de cifradores\n

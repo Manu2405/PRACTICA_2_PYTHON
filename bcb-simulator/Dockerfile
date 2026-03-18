@@ -1,1 +1,0 @@
-# Dockerfile BCB simulator\n

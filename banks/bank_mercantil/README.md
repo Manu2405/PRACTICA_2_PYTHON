@@ -1,1 +1,0 @@
-# Banco Mercantil (placeholder)\n

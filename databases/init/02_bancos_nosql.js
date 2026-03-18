@@ -1,1 +1,0 @@
-// Esquema bancos NoSQL\n
